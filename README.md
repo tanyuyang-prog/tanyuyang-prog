@@ -1,2 +1,2 @@
-# tanyuyang-prog.github.io
+# tanyuyang.github.io
 My personal portfolio website.
