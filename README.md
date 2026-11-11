@@ -11,13 +11,13 @@ My personal portfolio website.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=[YOUR+HEADLINE];[YOUR+SECOND+HEADLINE];Always+Learning.+Always+Building." alt="Typing SVG" /><p>
   <em>[A short, professional statement about who you are and what you do.]</em>
 </p><p>
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/tanyuyang-prog">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="https://tanyuyang-prog.github.io/tanyuyang-prog/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:tanyuyang@graduate.utm.my">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p><img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=flat-square&color=00C9FF&label=PROFILE+VIEWS" alt="Profile Views"/></div>---
@@ -141,16 +141,16 @@ Technologies: [TECH STACK]
 I'm open to professional networking, technical discussions, research collaborations, and interesting development opportunities.
 
 <p align="left">
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/tanyuyang-prog">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="https://tanyuyang-prog.github.io/tanyuyang-prog/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:tanyuyang@graduate.utm.my">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <a href="https://tanyuyang-prog.github.io/tanyuyang-prog/">
     <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>---
