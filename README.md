@@ -4,7 +4,7 @@ My personal portfolio website.
   GitHub Profile README
   Replace all [PLACEHOLDER] values with your actual information.
   Repository name must match your GitHub username.
---><div align="center">Hi there, I'm [YOUR NAME] 👋
+--><div align="center">Hi there, I'm Tan Yu Yang 👋
 
 [YOUR PROFESSIONAL TITLE]
 
